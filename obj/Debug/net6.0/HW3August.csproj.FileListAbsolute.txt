@@ -1,0 +1,14 @@
+C:\Users\ffati\source\repos\HW3August\HW3August\bin\Debug\net6.0\HW3August.exe
+C:\Users\ffati\source\repos\HW3August\HW3August\bin\Debug\net6.0\HW3August.deps.json
+C:\Users\ffati\source\repos\HW3August\HW3August\bin\Debug\net6.0\HW3August.runtimeconfig.json
+C:\Users\ffati\source\repos\HW3August\HW3August\bin\Debug\net6.0\HW3August.dll
+C:\Users\ffati\source\repos\HW3August\HW3August\bin\Debug\net6.0\HW3August.pdb
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.AssemblyInfoInputs.cache
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.AssemblyInfo.cs
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.csproj.CoreCompileInputs.cache
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.dll
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\refint\HW3August.dll
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.pdb
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\HW3August.genruntimeconfig.cache
+C:\Users\ffati\source\repos\HW3August\HW3August\obj\Debug\net6.0\ref\HW3August.dll
